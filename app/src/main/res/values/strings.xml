@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeChat</string>
+    <string name="home_main_account">主账号</string>
+    <string name="home_phone_pwd_reset">手机账号（点击重置密码）</string>
+    <string name="home_union_login">联合登录</string>
+</resources>
